@@ -1,6 +1,6 @@
 # Installation
 
-> `npm install --save types/jspdf`
+> `npm install @krzyhan/types-jspdf -D`
 
 # Summary
 
